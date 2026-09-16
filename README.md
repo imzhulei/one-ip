@@ -46,7 +46,8 @@ Workers Builds 会在 `main` 收到提交时构建和部署。上方按钮使用
 3.连接 GitHub，选择你的 one-ip Fork，生产分支填 main。
 4.构建命令填 pnpm build，根目录保持默认。
 5.点击部署，完成后打开 workers.dev 地址。自定义域名在 Worker 设置中绑定。
-<img width="1280" height="838" alt="23ec02072cd09b2b6a8669a447768410" src="https://github.com/user-attachments/assets/fc787aec-5613-4930-9aa3-a8747a072c34" />
+<img width="716" height="586" alt="image" src="https://github.com/user-attachments/assets/0959475b-3baf-4c7c-86a0-5f607d5eae1e" />
+
 
 ## 功能
 
